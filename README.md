@@ -38,10 +38,11 @@
 
   <p align="center">
    <a href="https://discord.gg/qApFmWMt8x"><img alt="Static Badge" src="https://img.shields.io/badge/Discord-Join?style=social&logo=discord" width=150></a>
+   <a href="https://x.com/GPTCompAsst"><img alt="Static Badge" src="https://img.shields.io/badge/X-Join?style=social&logo=x" width=100></a>
 
   </p>
 
-
+|ENGLISH|[简体中文](README.zh_CN.md)|
 
 # GPT Computer Assistant
 Hi, this is an alternative work for providing ChatGPT MacOS app to Windows and Linux. In this way this is a fresh and stable work. You can easily install as Python library for this time but we will prepare a pipeline to providing native install scripts (.exe).
@@ -64,6 +65,19 @@ computerassistant
 
 https://github.com/onuratakan/gpt-computer-assistant/assets/41792982/26ae3624-e619-44d6-9b04-f39cf1ac1f8f
 
+### Use cases
+
+<table>
+  <tr>
+    <td><img src="https://github.com/onuratakan/gpt-computer-assistant/assets/41792982/b4a4f11e-5588-4656-b5d7-b612a9a2855b" alt="Take Meeting Notes" width="500"/></td>
+    <td><img src="https://github.com/onuratakan/gpt-computer-assistant/assets/41792982/49eeac70-b33a-4ec4-8125-64127621ed62" alt="Daily Assistant" width="500"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/onuratakan/gpt-computer-assistant/assets/41792982/10b69a18-033c-4d81-8ac9-f4e3c65b59c3" alt="Read Docs" width="500"/></td>
+    <td><img src="https://github.com/onuratakan/gpt-computer-assistant/assets/41792982/0f483bae-ffaf-4311-8653-c0dc64fb5ebe" alt="Coding Assistant" width="500"/></td>   
+
+  </tr>
+</table>
 
 
 
@@ -127,19 +141,6 @@ At this time we have many infrastructure elements. We just aim to provide whole 
 
 
 
-## Use cases
-
-<table>
-  <tr>
-    <td><img src="https://github.com/onuratakan/gpt-computer-assistant/assets/41792982/b4a4f11e-5588-4656-b5d7-b612a9a2855b" alt="Take Meeting Notes" width="500"/></td>
-    <td><img src="https://github.com/onuratakan/gpt-computer-assistant/assets/41792982/49eeac70-b33a-4ec4-8125-64127621ed62" alt="Daily Assistant" width="500"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/onuratakan/gpt-computer-assistant/assets/41792982/10b69a18-033c-4d81-8ac9-f4e3c65b59c3" alt="Read Docs" width="500"/></td>
-    <td><img src="https://github.com/onuratakan/gpt-computer-assistant/assets/41792982/0f483bae-ffaf-4311-8653-c0dc64fb5ebe" alt="Coding Assistant" width="500"/></td>   
-
-  </tr>
-</table>
 
 
 ## Usage
@@ -157,4 +158,3 @@ At this time we have many infrastructure elements. We just aim to provide whole 
 <a href="https://github.com/onuratakan/gpt-computer-assistant/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=onuratakan/gpt-computer-assistant" />
 </a>
-
