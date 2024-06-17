@@ -1,4 +1,7 @@
 from .start import start
 
+from .agentic import Agent
 
-__version__ = '0.6.13'
+from .tooler import Tool
+
+__version__ = '0.17.0'
